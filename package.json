@@ -1,0 +1,8 @@
+{
+  "name": "marioparty",
+  "version": "1.0.0",
+  "description": "A Mario Party Server",
+  "main": "src\\main.js",
+  "author": "Steven Rosendahl",
+  "license": "ISC"
+}
